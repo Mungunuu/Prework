@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+}
+
+.red_color {
+    color: red;
+}
+
+.blue_color {
+    color: blue;
+}
+
+.green_color {
+    color: green;
+}
+
+.big_size {
+    font-size:30px; 
+}
+
+.tiny_size {
+    font-size: 10px;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.text_bold {
+    font-weight: bold;
+}
+
+.text_font {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.multiple {
+    font-size: 30px;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont {
+    color: green;
+}
+
+.styledImage {
+    border: 3px solid orange;
+}
